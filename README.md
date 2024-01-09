@@ -1,5 +1,9 @@
-### Hi there 👋
+# Hi there 🙂
+I'm Pratheeswar, student who loves learning new things just like everyone else. I am more interested in Apps development. So
+- I’m currently learning Flutter framework for apps development
+- I have recreated UI of WhatsApp as my first project 
 
+Soon I will develop more apps as I learn Flutter progressively ✌️You can reach me through: https://www.linkedin.com/in/pratheeswar-m-34a6a0237
 <!--
 **Electro-pulse/Electro-pulse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
