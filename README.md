@@ -1,7 +1,9 @@
 # Hi there 🙂
 I'm Pratheeswar, student who loves learning new things just like everyone else. I am more interested in Apps development. So
 - I’m currently learning Flutter framework for apps development
-- I have recreated UI of WhatsApp as my first project 
+- I have done some basic flutter projects like,
+  - 1) WhatsApp UI recreation
+  - 2) Music Player (Local files)
 
 Soon I will develop more apps as I learn Flutter progressively ✌️You can reach me through: https://www.linkedin.com/in/pratheeswar-m-34a6a0237
 <!--
