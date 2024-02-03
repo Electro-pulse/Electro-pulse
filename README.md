@@ -4,9 +4,9 @@ I'm Pratheeswar, student who loves learning new things just like everyone else. 
 - I have done some basic flutter projects like,
   - WhatsApp UI recreation
   - Music Player (Local files)
-
+<br><hr>
 Soon I will develop more apps progressively as I learn Flutter ✌️You can reach me through [LinkedIn](https://www.linkedin.com/in/pratheeswar-m-34a6a0237) .
-Have a Nice Day 😉<br>
+Have a Nice Day 😉<br><hr>
 <img src="https://cdn.dribbble.com/users/2407274/screenshots/7053596/media/4589f43bd3e842492ced2d6809cdf0b4.png?resize=400x300&vertical=center" alt="Please Retry after sometime">
 <!--
 **Electro-pulse/Electro-pulse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
