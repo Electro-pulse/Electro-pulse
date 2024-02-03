@@ -5,7 +5,7 @@ I'm Pratheeswar, student who loves learning new things just like everyone else. 
   - WhatsApp UI recreation
   - Music Player (Local files)
 
-Soon I will develop more apps progressively as I learn Flutter ✌️You can reach me through: https://www.linkedin.com/in/pratheeswar-m-34a6a0237
+Soon I will develop more apps progressively as I learn Flutter ✌️You can reach me through [LinkedIn](https://www.linkedin.com/in/pratheeswar-m-34a6a0237) .
 Have a Nice Day 😉
 <!--
 **Electro-pulse/Electro-pulse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
